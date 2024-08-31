@@ -1,3 +1,3 @@
 <div>
-  I don't have any idea what i'm going to put here
+  I'm a beginner with a desire to learn and grown in technology studies
 </div>
